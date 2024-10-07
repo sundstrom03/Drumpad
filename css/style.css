@@ -13,6 +13,8 @@ overflow: auto;
  height: 60px;
  line-height: 60px;
  text-align: center;
+font-family: 'Courier New', Courier, monospace;
+	
 }
 .pads {
 	display: grid;
@@ -45,7 +47,5 @@ overflow: auto;
 	background-color: aquamarine;
 }
 
-.container {
-	background-color: red;
-}
+
 
